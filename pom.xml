@@ -11,7 +11,7 @@
 
     <modules>
         <module>springboot-starter-sample-app</module>
-        <module>springboot-starter-sample-common</module>
+        <module>common-spring-boot-starter</module>
     </modules>
 
     <properties>

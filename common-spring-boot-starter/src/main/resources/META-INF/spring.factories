@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.zglu.starter.common.config.CommonAutoConfiguration
